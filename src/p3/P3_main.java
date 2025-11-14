@@ -5,7 +5,7 @@ public class P3_main {
 	public static void main(String[] args) {
 		int i = 3;
 		int j = 7;
-		int k = 4;
+		int k = 9;
 		
 		
 		if(i < j) {
